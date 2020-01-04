@@ -44,14 +44,14 @@ markdown: kramdown
 
 # Navigation
 nav:
- - name: "about"
+ - name: "关于"
    href: "/about"
 
- - name: "tags"
+ - name: "标签"
    href: "/tags"
 
  - name: "feed"
    href: "/feed.xml"
 
- - name: "contact"
+ - name: "联系方式"
    href: "/mailto:ivantheterrible@1530to1584.gov"

@@ -1,4 +1,4 @@
-I"/<style>
+I"‹/<style>
 img {
     width: 120px;
     margin: 3rem auto 0 auto;
@@ -11,7 +11,7 @@ p.pic {
 }
 </style>
 
-<p><img src="http://localhost:4000/assets/images/kikof
+<p><img src="https://loloao.github.io/my-blog//assets/images/kikof
 rieye.png" alt="Kikofrieye. Used as default favicon. CC0." /></p>
 <p class="pic">Pictured: <em>'Ofri Eyeparchment'</em>. Default
 favicon/spokesperson.  (CC0/Public Domain).</p>

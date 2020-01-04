@@ -3,8 +3,8 @@
 <channel>
 	<title>Loloao's blog</title>
 	<description>记录每次技术的升华</description>		
-	<link>http://localhost:4000</link>
-	<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://loloao.github.io/my-blog/</link>
+	<atom:link href="https://loloao.github.io/my-blog//feed.xml" rel="self" type="application/rss+xml" />
 	    
         <item>
         <title>What's Kikofri?</title>
@@ -22,7 +22,7 @@ p.pic {
 }
 &lt;/style&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/kikof
+&lt;p&gt;&lt;img src=&quot;https://loloao.github.io/my-blog//assets/images/kikof
 rieye.png&quot; alt=&quot;Kikofrieye. Used as default favicon. CC0.&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;pic&quot;&gt;Pictured: &lt;em&gt;'Ofri Eyeparchment'&lt;/em&gt;. Default
 favicon/spokesperson.  (CC0/Public Domain).&lt;/p&gt;
@@ -224,8 +224,8 @@ it might as well stay there.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 		<pubDate>Tue, 02 Jul 2019 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/ofri</link>
-		<guid isPermaLink="true">http://localhost:4000/ofri</guid>
+		<link>https://loloao.github.io/my-blog//ofri</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//ofri</guid>
         </item>
 	    
         <item>
@@ -242,8 +242,8 @@ it might as well stay there.&lt;/li&gt;
 &lt;p&gt;It’s an immensely useful tool. Find out more by &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
 		<pubDate>Mon, 18 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/18/whats-jekyll.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/18/whats-jekyll.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/18/whats-jekyll.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/18/whats-jekyll.html</guid>
         </item>
 	    
         <item>
@@ -386,8 +386,8 @@ error
 
 </description>
 		<pubDate>Sat, 16 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/16/example-post_01.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/16/example-post_01.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/16/example-post_01.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/16/example-post_01.html</guid>
         </item>
 	    
         <item>
@@ -530,8 +530,8 @@ error
 
 </description>
 		<pubDate>Fri, 15 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/15/example-post_02.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/15/example-post_02.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/15/example-post_02.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/15/example-post_02.html</guid>
         </item>
 	    
         <item>
@@ -674,8 +674,8 @@ error
 
 </description>
 		<pubDate>Thu, 14 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/14/example-post_03.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/14/example-post_03.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/14/example-post_03.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/14/example-post_03.html</guid>
         </item>
 	    
         <item>
@@ -818,8 +818,8 @@ error
 
 </description>
 		<pubDate>Wed, 13 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/13/example-post_04.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/13/example-post_04.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/13/example-post_04.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/13/example-post_04.html</guid>
         </item>
 	    
         <item>
@@ -962,8 +962,8 @@ error
 
 </description>
 		<pubDate>Tue, 12 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/12/example-post_05.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/12/example-post_05.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/12/example-post_05.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/12/example-post_05.html</guid>
         </item>
 	    
         <item>
@@ -1106,8 +1106,8 @@ error
 
 </description>
 		<pubDate>Mon, 11 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/11/example-post_06.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/11/example-post_06.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/11/example-post_06.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/11/example-post_06.html</guid>
         </item>
 	    
         <item>
@@ -1250,8 +1250,8 @@ error
 
 </description>
 		<pubDate>Sun, 10 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/10/example-post_07.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/10/example-post_07.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/10/example-post_07.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/10/example-post_07.html</guid>
         </item>
 	    
         <item>
@@ -1394,8 +1394,8 @@ error
 
 </description>
 		<pubDate>Fri, 08 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/08/some-more-stuff_08.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/08/some-more-stuff_08.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/08/some-more-stuff_08.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/08/some-more-stuff_08.html</guid>
         </item>
 	    
         <item>
@@ -1538,8 +1538,8 @@ error
 
 </description>
 		<pubDate>Thu, 07 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/07/some-more-stuff_09.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/07/some-more-stuff_09.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/07/some-more-stuff_09.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/07/some-more-stuff_09.html</guid>
         </item>
 	    
         <item>
@@ -1682,8 +1682,8 @@ error
 
 </description>
 		<pubDate>Thu, 07 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/07/example-post_10.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/07/example-post_10.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/07/example-post_10.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/07/example-post_10.html</guid>
         </item>
 	    
         <item>
@@ -1826,8 +1826,8 @@ error
 
 </description>
 		<pubDate>Wed, 06 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/06/some-more-stuff_11.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/06/some-more-stuff_11.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/06/some-more-stuff_11.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/06/some-more-stuff_11.html</guid>
         </item>
 	    
         <item>
@@ -1970,8 +1970,8 @@ error
 
 </description>
 		<pubDate>Tue, 05 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/05/some-more-stuff_12.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/05/some-more-stuff_12.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/05/some-more-stuff_12.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/05/some-more-stuff_12.html</guid>
         </item>
 	    
         <item>
@@ -2114,8 +2114,8 @@ error
 
 </description>
 		<pubDate>Mon, 04 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/04/some-more-stuff_13.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/04/some-more-stuff_13.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/04/some-more-stuff_13.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/04/some-more-stuff_13.html</guid>
         </item>
 	    
         <item>
@@ -2258,8 +2258,8 @@ error
 
 </description>
 		<pubDate>Sun, 03 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/03/some-more-stuff_14.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/03/some-more-stuff_14.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/03/some-more-stuff_14.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/03/some-more-stuff_14.html</guid>
         </item>
 	    
         <item>
@@ -2402,8 +2402,8 @@ error
 
 </description>
 		<pubDate>Sat, 02 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/02/some-more-stuff_15.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/02/some-more-stuff_15.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/02/some-more-stuff_15.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/02/some-more-stuff_15.html</guid>
         </item>
 	    
         <item>
@@ -2546,8 +2546,8 @@ error
 
 </description>
 		<pubDate>Fri, 01 Jul 2016 00:00:00 +0800</pubDate>
-		<link>http://localhost:4000/2016/07/01/some-more-stuff_16.html</link>
-		<guid isPermaLink="true">http://localhost:4000/2016/07/01/some-more-stuff_16.html</guid>
+		<link>https://loloao.github.io/my-blog//2016/07/01/some-more-stuff_16.html</link>
+		<guid isPermaLink="true">https://loloao.github.io/my-blog//2016/07/01/some-more-stuff_16.html</guid>
         </item>
 	    
 </channel>

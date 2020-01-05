@@ -1,6 +1,5 @@
 ---
 title: 'TypeScript learning'
-description: 'A recode for TypeScript'
 layout: post
 author: 'loloao'
 ---

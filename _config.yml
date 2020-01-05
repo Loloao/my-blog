@@ -46,9 +46,6 @@ markdown: kramdown
 nav:
  - name: "关于"
    href: "/about"
-
- - name: "标签"
-   href: "/tags"
-
+   
  - name: "联系方式"
    href: "/mailto:ivantheterrible@1530to1584.gov"

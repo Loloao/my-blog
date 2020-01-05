@@ -50,8 +50,5 @@ nav:
  - name: "标签"
    href: "/tags"
 
- - name: "feed"
-   href: "/feed.xml"
-
  - name: "联系方式"
    href: "/mailto:ivantheterrible@1530to1584.gov"

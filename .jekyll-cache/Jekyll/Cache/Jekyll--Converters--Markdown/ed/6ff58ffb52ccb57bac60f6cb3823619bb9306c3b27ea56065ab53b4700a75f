@@ -1,61 +1,4 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="https://loloao.github.io/my-blog//favicon.ico">
-    <link rel="stylesheet" href="https://loloao.github.io/my-blog//assets/style.css" />
-    <link rel="alternate" type="application/atom+xml" title="Feed for https://loloao.github.io/my-blog/" href="/feed.xml">
-
-    <title>TypeScript learning</title>
-    <meta name="author" content="loloao" />
-    <meta name="description" content="记录每次技术的升华" />
-    <link rel="canonical" href="https://loloao.github.io/my-blog//2020/01/05/TypeScript-learning.html" />
-    <meta property="og:description" content="记录每次技术的升华" />
-    <meta property="og:url" content="https://loloao.github.io/my-blog//2020/01/05/TypeScript-learning.html" />
-    <meta property="og:site_name" content="loloao - Live Undead (1995, beijing)" />
-    <meta property="og:image" content="https://loloao.github.io/my-blog//assets/images/kikofrieye.png" />
-    <meta property="og:type" content="article" />
-    <meta property="article:published_time" content="2020-01-05T00:00:00+08:00" />
-    <meta property="og:title" content="TypeScript learning" />
-    <meta property="og:locale" content="en_US" />
-    
-    <script type="application/ld+json">
-    {"@context":"http://schema.org",
-     "@type":"Article","url":"https://loloao.github.io/my-blog//2020/01/05/TypeScript-learning.html",
-     "publisher":{ 
-     "@type":"Organization","name":"Loloao's blog",
-       "logo":{
-       "@type":"ImageObject", "url":"https://loloao.github.io/my-blog//assets/images/kikofrieye.png"
-       }
-     },
-     "author":{
-     "@type":"Person","name":"loloao"
-     },
-     "description":"记录每次技术的升华",
-     "image":"https://loloao.github.io/my-blog//assets/images/kikofrieye.png",
-     "headline":"TypeScript learning",
-     "datePublished":"2020-01-05 00:00:00 +0800",
-     "dateModified":"2020-01-05 00:00:00 +0800","mainEntityOfPage":{
-     "@type":"WebPage","@id":"https://loloao.github.io/my-blog//2020/01/05/TypeScript-learning.html"
-     }
-    }
-    </script>
-
-</head>
-<body>
-<div class="container_post">
-
-
-<header class="header">
-    <h1 class="header-title--small">
-        <a href="https://loloao.github.io/my-blog//">Loloao's blog</a>
-    </h1>
-</header> 
-
-<div class="content post">
-    <h1>TypeScript learning</h1>
-    <time>05 Jan 2020</time><p><strong>最近看了许多关于 Angular 的文章，感觉是时候学习了，但是学习之前得先学习 TypeScript，正好以后准备用 TypeScript 写 node，一举两得。</strong></p>
+I"��<p><strong>最近看了许多关于 Angular 的文章，感觉是时候学习了，但是学习之前得先学习 TypeScript，正好以后准备用 TypeScript 写 node，一举两得。</strong></p>
 
 <h2 id="基础类型">基础类型</h2>
 
@@ -660,10 +603,4 @@ pet.swim() // 报错
 <span class="nx">button</span><span class="p">.</span><span class="nx">animate</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="dl">'</span><span class="s1">uneasy</span><span class="dl">'</span><span class="p">)</span> <span class="c1">// 报错</span>
 </code></pre></div></div>
 
-</div>
-</div>    <footer><div class="footer">
-            |<a href="https://loloao.github.io/my-blog//"> ~/start </a>|
-        </div> 
-    </footer>
-</body>
-</html>
+:ET

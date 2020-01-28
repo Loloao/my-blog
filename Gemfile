@@ -1,5 +1,2 @@
-source 'https://rubygems.org'
-
-gem 'jekyll'
-
-gem 'liquid'
+source "https://rubygems.org"
+gemspec

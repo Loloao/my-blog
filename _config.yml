@@ -16,7 +16,7 @@
 title: 我的博客
 description: 一个记录思想的地方
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
-url: "https://Loloao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://loloao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -35,7 +35,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
+  "My Blog on GitHub":
     - "//github.com/Loloao/my-blog"
 
 # Footer content appears at the bottom of every page's main content

@@ -3,7 +3,7 @@ layout: default
 title: class
 nav_order: 5
 has_children: true
-permalink: docs/看书
+permalink: docs/book
 
 ---
 

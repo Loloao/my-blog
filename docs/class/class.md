@@ -3,7 +3,7 @@ layout: default
 title: class
 nav_order: 4
 has_children: true
-permalink: docs/课程学习
+permalink: docs/class
 ---
 
 
